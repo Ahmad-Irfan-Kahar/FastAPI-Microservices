@@ -1,4 +1,4 @@
-Scalable Microservices with FastAPI, React, and Redis Streams
+#Scalable Microservices with FastAPI, React, and Redis Streams
 This project demonstrates a scalable microservices architecture featuring FastAPI for the backend services, React for the frontend, and Redis as the primary data store and communication backbone using Redis Streams. It showcases two core services: Inventory Management and Order Processing, designed to communicate asynchronously and efficiently.
 
 🚀 Project Overview
